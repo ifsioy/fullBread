@@ -1,0 +1,12 @@
+# ninja log v5
+1	8	1715600923423428895	/home/u/CLionProjects/fullBread/cmake-build-debug/fullBread_autogen/mocs_compilation.cpp	9d588e699c7692c
+133	1580	1715600872847163749	CMakeFiles/fullBread.dir/fullBread_autogen/mocs_compilation.cpp.o	e9a9a4f1b27b13f2
+134	2038	1715600873303166111	CMakeFiles/fullBread.dir/userInterface/main_window.cpp.o	be91c43389d84b63
+1	8	1715600923423428895	fullBread_autogen/timestamp	9d588e699c7692c
+109	784	1715530007044137834	CMakeFiles/fullBread.dir/Network/matrixMath/matrixMath.cpp.o	8bf8f70d58de95f0
+9	754	1715600924167432842	CMakeFiles/fullBread.dir/developersMenu/Menu.cpp.o	9abf717e214ed136
+1	8	1715600923423428895	fullBread_autogen/mocs_compilation.cpp	9d588e699c7692c
+133	1703	1715600872971164391	CMakeFiles/fullBread.dir/main.cpp.o	85cb673f56148a9e
+97	882	1715534543993517799	CMakeFiles/fullBread.dir/Network/Network.cpp.o	ea2d2686a0d5ae53
+1	8	1715600923423428895	/home/u/CLionProjects/fullBread/cmake-build-debug/fullBread_autogen/timestamp	9d588e699c7692c
+754	998	1715600924411434137	fullBread	f4523c7a960bcc8f

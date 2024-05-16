@@ -1,0 +1,5 @@
+/home/u/CLionProjects/fullBread/cmake-build-debug/CMakeFiles/fullBread.dir
+/home/u/CLionProjects/fullBread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/u/CLionProjects/fullBread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/u/CLionProjects/fullBread/cmake-build-debug/CMakeFiles/fullBread_autogen_timestamp_deps.dir
+/home/u/CLionProjects/fullBread/cmake-build-debug/CMakeFiles/fullBread_autogen.dir
